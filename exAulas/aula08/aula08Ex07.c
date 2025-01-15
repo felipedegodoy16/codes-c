@@ -8,7 +8,7 @@ int main() {
     for(i=0; i<5; i++){
     	for(j=0; j<10; j++){
     		scanf("%f", &matriz[i][j]);
-    		if(matriz[i][j] < menor){
+			if(matriz[i][j] < menor){
     			menor = matriz[i][j];
     			colNum = j;
 			}

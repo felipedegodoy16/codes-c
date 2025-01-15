@@ -1,0 +1,9 @@
+Area = 9.00
+Area = 12.00
+Area = 50.00
+Area = 36.00
+Area = 6.00
+Area = 3.50
+Area = 3.00
+Area = 5.00
+Area = 5.00
